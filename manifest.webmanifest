@@ -1,0 +1,18 @@
+{
+  "name": "공연 자막 PPT 만들기",
+  "short_name": "자막 만들기",
+  "description": "공연 대본에서 자막 파워포인트를 만듭니다. R2D2MEDIA",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0b0f14",
+  "theme_color": "#1f6feb",
+  "lang": "ko",
+  "icons": [
+    { "src": "icons/icon-180.png", "sizes": "180x180", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
