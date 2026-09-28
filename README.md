@@ -14,7 +14,7 @@
 ### 인터넷이 없는 공연장에서 쓰시려면
 
 공연장은 와이파이가 안 되는 곳이 많습니다.
-페이지 소개 화면의 **`자막만들기-오프라인.html`** 링크로 파일 하나만 받아 USB에 담아 가세요.
+페이지 소개 화면의 **오프라인 파일 받기** 링크(`offline.html`)로 파일 하나만 받아 USB에 담아 가세요.
 더블클릭하면 인터넷 없이 열리고, 기능은 똑같습니다.
 
 ### 바탕화면에 놓고 쓰시려면
@@ -46,7 +46,7 @@ No install, no sign-up — just open the link.
 - **Your script never leaves your computer.** Everything runs in the browser
 
 **Offline use:** venues often have no Wi-Fi. Download the single-file version
-(`자막만들기-오프라인.html`, linked on the About screen) and open it by
+(`offline.html`, linked on the About screen) and open it by
 double-clicking — same features, no internet needed.
 
 **Install it:** click the install (⊕) icon in the address bar to add it to your
